@@ -1,0 +1,2 @@
+# MBRlock-asmcode
+MBR锁!!!!!
